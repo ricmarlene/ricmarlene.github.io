@@ -42,7 +42,7 @@ em:lang(zh) {
 #dsqjs header a:not(.dsqjs-load-more),
 #dsqjs footer a:not(.dsqjs-load-more),
 #dsqjs section a:not(.dsqjs-load-more) {
-  color: #7065a3;
+  color: #cb2e5a;
 }
 #dsqjs header a:not(.dsqjs-load-more):hover,
 #dsqjs footer a:not(.dsqjs-load-more):hover,
@@ -53,7 +53,7 @@ em:lang(zh) {
   border-bottom: none;
 }
 #dsqjs header .dsqjs-tab-active > span:after {
-  background-color: #7065a3 !important;
+  background-color: #cb2e5a !important;
 }
 #dsqjs header .dsqjs-order {
   margin-bottom: 0;
@@ -105,7 +105,7 @@ body {
   }
 }
 ::selection {
-  background: rgba(112,101,163,0.6);
+  background: rgba(203,46,90,0.6);
   color: #fff;
 }
 img {
@@ -140,7 +140,7 @@ h6:hover .headerlink:before {
   position: absolute;
 }
 a {
-  color: #7065a3;
+  color: #cb2e5a;
   transition: all 0.2s ease-out;
 }
 a:hover {
@@ -187,8 +187,8 @@ blockquote {
   margin: 0;
   margin-left: 0 !important;
   padding: 0.7em 1em;
-  border-left: 0.25em solid rgba(112,101,163,0.6);
-  background-color: rgba(112,101,163,0.05);
+  border-left: 0.25em solid rgba(203,46,90,0.6);
+  background-color: rgba(203,46,90,0.05);
 }
 blockquote p {
   margin-top: 0;
@@ -288,7 +288,7 @@ h2.post-title {
   color: #333;
 }
 .post-title a:hover {
-  color: #7065a3;
+  color: #cb2e5a;
 }
 .post-meta {
   font-family: 'Fira Mono', 'Courier New', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans CJK SC', 'PingFang SC', 'WenQuanYi Micro Hei', 'Microsoft YaHei', monospace;
@@ -337,8 +337,8 @@ h2.post-title {
   margin: 0;
   margin-left: 0 !important;
   padding: 0.7em 1em;
-  border-left: 0.25em solid rgba(112,101,163,0.6);
-  background-color: rgba(112,101,163,0.05);
+  border-left: 0.25em solid rgba(203,46,90,0.6);
+  background-color: rgba(203,46,90,0.05);
   margin: 1em 0;
 }
 .post-toc p,
@@ -408,7 +408,7 @@ h2.post-title {
   margin: 0;
 }
 .post-collapse h3.post-title a:hover {
-  color: #7065a3;
+  color: #cb2e5a;
 }
 .post-collapse .post-meta .post-meta-item a {
   color: #999 !important;
@@ -417,7 +417,7 @@ h2.post-title {
   margin: 0 !important;
   padding-bottom: 1em;
   padding-top: 1em;
-  color: #7065a3;
+  color: #cb2e5a;
   border-bottom: 1px solid #eee;
 }
 .pagination {
