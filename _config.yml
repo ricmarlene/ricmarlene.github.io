@@ -30,7 +30,9 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render: "forOctopus/**"
+skip_render: 
+  - "forOctopus/**"
+  - "html/**"
 
 # Writing
 new_post_name: :year-:month-:day-:title.md # File name of new posts
@@ -257,6 +259,8 @@ theme_config:
     #sitemap: /sitemap.xml || sitemap
     #commonweal: /404/ || heartbeat
     To会飞的章鱼: /forOctopus/ || fa fa-heart
+    核心小板: /html/SY0237A_核心小板.html || fa fa-code
+    一体板: /html/7630一体板.html || fa fa-code
 
   # Enable / Disable menu icons / item badges.
   menu_settings:
