@@ -258,7 +258,7 @@ theme_config:
     #schedule: /schedule/ || calendar
     #sitemap: /sitemap.xml || sitemap
     #commonweal: /404/ || heartbeat
-    To会飞的章鱼: /forOctopus/ || fa fa-heart
+    #To会飞的章鱼: /forOctopus/ || fa fa-heart
     核心小板: /html/SY0237A_核心小板.html || fa fa-code
     一体板: /html/7630一体板.html || fa fa-code
 
